@@ -1,0 +1,5 @@
+<template>
+
+<h1>Sobre</h1>
+<p>Página About</p>
+</template>
